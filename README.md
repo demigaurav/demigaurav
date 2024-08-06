@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @demigaurav
-- 👀 I’m interested in building android apps and competitive programming
-- 🌱 I’m currently learning Python, Flutter, and advanced algorithms 
-- 💞️ I’m looking to collaborate on Python/Android projects
+- 👀 I’m interested in Machine Leanring and Data Science
+- 🌱 I’m currently learning Python and advanced algorithms 
+- 💞️ I’m looking to collaborate on ML/DL projects
 - 📫 How to reach me - mail: offgs2002@gmail.com
 
 <!---
